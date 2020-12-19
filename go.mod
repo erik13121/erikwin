@@ -1,4 +1,4 @@
-module github.com/erik13121/win
+module github.com/erik13121/erikwin
 
 go 1.14
 
